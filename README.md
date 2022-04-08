@@ -4,14 +4,14 @@ Implementing all earlier modules into one application. Serving as a capstone to 
 
 1.) Material Design & Material Components
 - Log in/ Welcome
-• Image of brand's logo
-• Name of the App
-• Two text fields, one for username, & password
-• Two buttons
+- Image of brand's logo
+- Name of the App
+- Two text fields, one for username, & password
+- Two buttons
 
 2.) Material Structure & Layout
--Top app bar
--Grid list full of products
+- Top app bar
+- Grid list full of products
 
 3.) Material Theming with Color, Shape, Elevation, & Type
 - Color
