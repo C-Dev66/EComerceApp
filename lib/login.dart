@@ -54,7 +54,24 @@ class _LoginPageState extends State<LoginPage> {
                 labelText: 'Password'
               ),
               obscureText: true,
-            )
+            ),
+
+            ButtonBar(
+              children: <Widget>[
+              TextButton(
+                child: const Text('Cancel'),
+                onPressed: () {
+                },
+              ),
+
+              ElevatedButton(
+                child: const Text('NEXT'),
+                onPressed: () {
+                  
+                },
+              ),
+              ],
+            ),
             // TODO: Wrap Username with AccentColorOverride (103)
             // TODO: Remove filled: true values (103)
             // TODO: Wrap Password with AccentColorOverride (103)
