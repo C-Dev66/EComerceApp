@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+import 'dart:html';
+
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
@@ -68,7 +70,9 @@ class _LoginPageState extends State<LoginPage> {
                     }),
                 ElevatedButton(
                   child: const Text('NEXT'),
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.pop(context);
+                  },
                 ),
               ],
             ),
