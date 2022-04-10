@@ -69,6 +69,9 @@ ThemeData _buildShrineTheme() {
     textSelectionTheme: const TextSelectionThemeData(
       selectionColor: KShrinePink100,
     ),
+    inputDecorationTheme: const InputDecorationTheme(
+      border: OutlineInputBorder(),
+    ),
   );
 }
 
