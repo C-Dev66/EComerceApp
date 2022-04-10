@@ -73,10 +73,7 @@ ThemeData _buildShrineTheme() {
     ),
     inputDecorationTheme: const InputDecorationTheme(
       focusedBorder: CutCornersBorder(
-        borderSide: BorderSide(
-          width: 2.0,
-          color: KShrineBrown900
-        ),
+        borderSide: BorderSide(width: 2.0, color: KShrineBrown900),
       ),
       border: CutCornersBorder(),
     ),
