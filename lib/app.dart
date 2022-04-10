@@ -70,6 +70,12 @@ ThemeData _buildShrineTheme() {
       selectionColor: KShrinePink100,
     ),
     inputDecorationTheme: const InputDecorationTheme(
+      focusedBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          width: 2.0,
+          color: KShrineBrown900
+        ),
+      ),
       border: OutlineInputBorder(),
     ),
   );
