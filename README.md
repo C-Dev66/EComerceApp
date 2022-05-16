@@ -204,7 +204,11 @@ class _BackdropTitle extends AnimatedWidget {
 
 ## Summary
 
-Awesome introduction to Firebase, Cloud Firestore, & Security Rules. Really enjoyed this project and will seek to build more applications with their native database service. All around great experience, the future is bright for Flutter. Glad to be able to partaken in this revolutinary stack. 🤩🫶
+Bringing all of the past projects that I've recently done in flutter into one big application was satisfying. Seeing how all flows can come together to make a full application almost feels like building a big virtual lego. A lot of debugging this time around to make sure all features were working properly. Knowing how to manipulate MDC componenets is a must if you want to create an application catered to what the company wants. Themeing with colors, shapes amd animations goes a long way for creating a space for the customer to feel involved.
+
+This project as well as the Google Maps has to be in my top 5 so far.
+Looking forward to what else I will be able to build next
+
 
 For more information refer to the official documentation.
 
